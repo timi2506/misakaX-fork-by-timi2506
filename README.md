@@ -1,3 +1,14 @@
+TO USE DO: 
+git clone https://github.com/timi2506/misakaX-fork-by-timi2506.git
+cd misakaX-fork-by-timi2506
+chmod +x main_app.command
+./main_app.command
+
+
+
+
+
+Original MisakaX Notes:
 # misakaX
 An ultimate customization tool, uilitizing the bug that makes [TrollRestore](https://github.com/JJTech0130/TrollRestore) possible.
 ### iOS /iPadOS 16.0 - 18.0 RC / 18.1 beta 3
