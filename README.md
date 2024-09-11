@@ -1,7 +1,10 @@
 TO USE DO: 
 git clone https://github.com/timi2506/misakaX-fork-by-timi2506.git
+
 cd misakaX-fork-by-timi2506
+
 chmod +x main_app.command
+
 ./main_app.command
 
 
